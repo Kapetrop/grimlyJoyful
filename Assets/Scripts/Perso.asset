@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b557d5ed9281d044955f3f46ae36174, type: 3}
+  m_Name: Perso
+  m_EditorClassIdentifier: 
+  _nbPointsDeVieIni: 6
+  _nbCerveauIni: 0
+  _nbMainini: 0
+  _nbPiedsIni: 0
+  _nbTeteIni: 0
+  _nbOsIni: 0
+  _nbPotionMauveIni: 0
+  _nbPotionRougeIni: 0
+  _nbPointsDeVie: 6
+  _nbCerveau: 0
+  _nbMain: 0
+  _nbPieds: 0
+  _nbTete: 0
+  _nbOs: 0
+  _nbPotionMauve: 0
+  _nbPotionRouge: 0

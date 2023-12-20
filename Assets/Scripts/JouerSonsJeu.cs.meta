@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6459dc79b97f3d847bab45bc1a8db8e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundAmbiance: {instanceID: 0}
+  - soundDefaite: {fileID: 8300000, guid: 575809c45aa4bdb4f86fa1581c790eb1, type: 3}
+  - soundSaut: {fileID: 8300000, guid: 7152e9e170fa66c4eb362f6b6c95acff, type: 3}
+  - soundIdleStopScreaming: {fileID: 8300000, guid: e4ca16fd5954f7548af048f4244019f6,
+      type: 3}
+  - soundVictoire: {fileID: 8300000, guid: 880d998e55070ea488286e8929afe4a5, type: 3}
+  - soundVoices: {fileID: 8300000, guid: a010900d246d2e748bd7a5723be3d54c, type: 3}
+  - soundWind: {fileID: 8300000, guid: 32da3ed06ab366a46a4d448d914a5bc4, type: 3}
+  - soundZombieDeath: {fileID: 8300000, guid: 3894a160dbf3c2043be040247a00bd8d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
